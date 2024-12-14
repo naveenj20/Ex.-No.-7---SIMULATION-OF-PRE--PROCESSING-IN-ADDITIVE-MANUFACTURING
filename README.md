@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2024-12-14 085847](https://github.com/user-attachments/assets/fb50b540-bd5b-4a3f-b40a-4adfd53ca43d)# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -39,14 +39,18 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
+![Screenshot 2024-12-14 085330](https://github.com/user-attachments/assets/c4b081db-cf84-4dcd-88d4-ca2506ba732b)
+![Screenshot 2024-12-14 085339](https://github.com/user-attachments/assets/23c92172-74c3-4cde-9d03-7ad2db4d6b8a)
+![Screenshot 2024-12-14 085347](https://github.com/user-attachments/assets/bffa044d-7661-49e9-9238-d2d10fc5c84a)
 ## Output:
-
-### Name:
-### Register Number:
+![Screenshot 2024-12-14 085743](https://github.com/user-attachments/assets/298ef390-4e45-4120-acf7-01a3e2684ea3)
+![Screenshot 2024-12-14 085752](https://github.com/user-attachments/assets/197dfdc2-c99b-45f7-8a31-d6ddd3c5c386)
+![Screenshot 2024-12-14 085758](https://github.com/user-attachments/assets/f34d580f-f062-43a4-a0dd-be6594922602)
+![Screenshot 2024-12-14 085811](https://github.com/user-attachments/assets/5320bb3b-9706-4f61-8dae-c7b16a32d7db)
+![Screenshot 2024-12-14 085829](https://github.com/user-attachments/assets/fd496bad-692c-4172-a848-05dbaa789f3a)
+![Screenshot 2024-12-14 085847](https://github.com/user-attachments/assets/a52efd29-5819-4683-ab21-0021cfba7806)
+### Name: Naveen Jaisanker
+### Register Number: 24001290
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
